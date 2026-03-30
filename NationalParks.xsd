@@ -2,7 +2,8 @@
 <xs:schema
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns="https://rohanb1836.github.io/CSE445_A4-1229269563"
-    targetNamespace="https://rohanb1836.github.io/CSE445_A4-1229269563">
+    targetNamespace="https://rohanb1836.github.io/CSE445_A4-1229269563"
+    elementFormDefault="qualified">
   <xs:element name="NationalParks">
     <xs:complexType>
       <xs:sequence>
