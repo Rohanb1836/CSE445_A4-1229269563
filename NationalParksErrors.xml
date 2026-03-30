@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml version="1.0" encoding="utf-8"?>
-<NationalPark xmlns="https://rohanb1836.github.io/CSE445_A4-1229269563"
-              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-              xsi:schemaLocation="https://rohanb1836.github.io/CSE445_A4-1229269563 https://rohanb1836.github.io/CSE445_A4-1229269563/NationalParks.xsd">
+<?xml version="1.0" encoding="utf-8"?>
+<NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:noNamespaceSchemaLocation="https://rohanb1836.github.io/CSE445_A4-1229269563/NationalParks.xsd">
+  
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Name>Grand Canyon Again</Name>
